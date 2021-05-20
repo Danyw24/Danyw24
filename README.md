@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Danyw24
 - 👀 I’m interested in kali linux and javascript
-- 🌱 I’m currently learning none xd
-- 💞️ I’m looking to collaborate on nothing : (
-- 📫 How to reach me 
+- 🌱 I’m currently learning ethical haking
+- 💞️ I’m looking to collaborate on nothing 
+- 📫 How to reach me on discord @d4nyw24
 
 <!---
 Danyw24/Danyw24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
