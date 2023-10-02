@@ -1,5 +1,5 @@
-<h1>Bienvenidos a mi perfil de GitHub</h1>
-¡Hola! Soy un desarrollador con habilidades en Python, JavaScript y un conocimiento básico en C++. Me apasiona trabajar en proyectos de desarrollo de software, y aquí podrás encontrar algunos de mis proyectos y contribuciones en GitHub.
+<h1>Hi!</h1>
+¡Hola! Soy un desarrollador con habilidades en Python, JavaScript y en C++. Me apasiona trabajar en proyectos de desarrollo de software, y aquí podrás encontrar algunos de mis proyectos y contribuciones en GitHub.
 <br>
 
 <h2>Habilidades y experiencia</h2>
